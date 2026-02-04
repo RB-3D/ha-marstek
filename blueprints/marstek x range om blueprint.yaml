@@ -1,5 +1,5 @@
 blueprint:
-  name: Marstek X range on the Meter
+  name: Marstek X range on the Meter_RB-3D
   description: >
     Control  Marstek Batteries according to a grid sensor and a target range  
     
