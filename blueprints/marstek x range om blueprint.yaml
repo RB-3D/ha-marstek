@@ -293,7 +293,7 @@ variables:
 
   # added 20260204 1154 RB-3D   
   # Time
-  discharge_after: !input discharge_afther
+  discharge_after: !input discharge_after
   discharge_before: !input discharge_before
 
 trigger:
